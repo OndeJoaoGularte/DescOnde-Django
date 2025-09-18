@@ -1,0 +1,25 @@
+# Arquivos de Bytecode e Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Banco de dados
+*.sqlite3
+db.sqlite3
+
+# Ambiente Virtual
+.venv/
+venv/
+ENV/
+
+# Arquivos de configuração sensíveis (crie um .env.example para rastrear as variáveis)
+.env
+
+# Arquivos de IDEs
+.idea/
+.vscode/
+
+# Outros
+*.log
+local_settings.py
